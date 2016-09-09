@@ -1,0 +1,21 @@
+c:\users\brick\documents\visual studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\bin\Debug\Movie-Songs Property Editor.exe
+c:\users\brick\documents\visual studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\bin\Debug\Movie-Songs Property Editor.pdb
+c:\users\brick\documents\visual studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\brick\documents\visual studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie_Songs_Property_Editor.Form1.resources
+c:\users\brick\documents\visual studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie_Songs_Property_Editor.Properties.Resources.resources
+c:\users\brick\documents\visual studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\brick\documents\visual studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\brick\documents\visual studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie-Songs Property Editor.exe
+c:\users\brick\documents\visual studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie-Songs Property Editor.pdb
+c:\users\brick\documents\visual studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie_Songs_Property_Editor.songs_editor.resources
+C:\Users\Brick\Documents\Visual Studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Brick\Documents\Visual Studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\SD Card\Brick\Brick\Documents\Visual Studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie-Songs Property Editor.exe
+D:\SD Card\Brick\Brick\Documents\Visual Studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie-Songs Property Editor.pdb
+D:\SD Card\Brick\Brick\Documents\Visual Studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\bin\Debug\Movie-Songs Property Editor.exe
+D:\SD Card\Brick\Brick\Documents\Visual Studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\bin\Debug\Movie-Songs Property Editor.pdb
+D:\SD Card\Brick\Brick\Documents\Visual Studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie-Songs Property Editor.csprojResolveAssemblyReference.cache
+D:\SD Card\Brick\Brick\Documents\Visual Studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie_Songs_Property_Editor.Form1.resources
+D:\SD Card\Brick\Brick\Documents\Visual Studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie_Songs_Property_Editor.Properties.Resources.resources
+D:\SD Card\Brick\Brick\Documents\Visual Studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie_Songs_Property_Editor.songs_editor.resources
+D:\SD Card\Brick\Brick\Documents\Visual Studio 2010\Projects\Movie-Songs Property Editor\Movie-Songs Property Editor\obj\x86\Debug\Movie-Songs Property Editor.csproj.GenerateResource.Cache
